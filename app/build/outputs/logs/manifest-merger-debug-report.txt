@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.3.4] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5bc3670bd5d95643dbec147cfd380cce\transformed\jetified-chip-navigation-bar-1.3.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d2a9a60778d02098f52db60cf965789a\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bd8e3b4084567ac93cd3a12cf5a62449\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bf1a769bec55185f2a673006ca10de01\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\345c3c555b8c58dba25ff27580b9ab8c\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\98117baaac17ac733d847189043be261\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f02fd0205bf7f2334330119965620342\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.sharish:ShimmerRecyclerView:v1.3] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07a32e991458be5b792c97916325a722\transformed\jetified-ShimmerRecyclerView-v1.3\AndroidManifest.xml:18:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d9aa6318413ebb250309d6a82f3d7089\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\45a938ef5de44c72b003086ba6bfe954\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\872df15e8a87ad84c3d025b4dee06f83\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7be6de85861506f425eb2c3cca68a81f\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\a3f2b43c4f5aff22ae6c749cee4c05ae\transformed\jetified-materialfavoritebutton-0.1.5\AndroidManifest.xml:2:1-10:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\0813e4364743e9c3e494dbab4bfc113d\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\3fd286930a5551aa05ca00c5e3ab6c37\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\70b011d9058d8ea5d2adfefd26ce3079\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4c1a2593f97ac4a99764afd03cc83591\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\17d24f4559f1d763569b9541b209b5eb\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\67390c408357a0a6a7c37a6ee9e630d5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d0cb3d2fb67ea6c48e93337c45c3e891\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4a34df023b5fe04ac2c374dae763daa5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\83e85f5e5a4aa2a4cbdee773369b473b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\e633fc7b50cdcb6b04ba579a35d1e9ea\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b068cbe447fddea4f8725d89ec596094\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7956ffd336fcf8ab864b6e88d9fa9db6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\1779c95a32682703003c270da2120483\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\799900163aeda3da99eb571c03aa1988\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\6753eba5d1aa8a55e733f4d00c633da4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\86bcba6d9bb3f79a95f48964bcdac576\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7bc3ef2ceca3b0bb5a7cf2082defdb72\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f4a6f71faeda3ac7d43f297aaf743444\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\17c3abce627b13ee8851036d38f48dd3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4d280fd78189b510fd39e47587318773\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07333af5abedbb6552af9145a87d7f01\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\881e9ddaf7c9ad043bbb77fbf1ca0951\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\de6ddfac67149aa1cd8ffd8beb7c7ab7\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\fea2b4a4453d628f062c394ac26442bf\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\2bc8d852abe99e1b7982e2fc1f01f344\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7597cc872382abe8aedcbe1e9772d7b2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\2fa9957efb8a3b1c225621f72f3cad18\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\3222ca6d744dc45608a117a5811efb6e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\1822c72e5d5ab65ca2622ed16da39b8b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5c556b54922061ee32c1fec662f3ad3e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\10249ba024e2f76c95028f85c215f1d0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\76dc00f861b6cbd24bb0e11e534cae87\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\caddcd088ef2df5c1ec865e1b3b868fd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5b1669e7ee241eb91f5d74faa8ab9ef8\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b6bc68b8e2989b727b83fd1c6f9cbf0e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f3c9ae9cd8250fe3ae848fca03f42db3\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d2a9a60778d02098f52db60cf965789a\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d2a9a60778d02098f52db60cf965789a\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bd8e3b4084567ac93cd3a12cf5a62449\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bd8e3b4084567ac93cd3a12cf5a62449\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bf1a769bec55185f2a673006ca10de01\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bf1a769bec55185f2a673006ca10de01\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7be6de85861506f425eb2c3cca68a81f\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7be6de85861506f425eb2c3cca68a81f\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07333af5abedbb6552af9145a87d7f01\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07333af5abedbb6552af9145a87d7f01\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\881e9ddaf7c9ad043bbb77fbf1ca0951\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\881e9ddaf7c9ad043bbb77fbf1ca0951\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\fea2b4a4453d628f062c394ac26442bf\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\fea2b4a4453d628f062c394ac26442bf\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f3c9ae9cd8250fe3ae848fca03f42db3\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:12:5-20
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f3c9ae9cd8250fe3ae848fca03f42db3\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07333af5abedbb6552af9145a87d7f01\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:12:9-59
+	tools:targetApi
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:16:9-28
+	android:icon
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:10:9-48
+	android:allowBackup
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:15:9-44
+activity#com.albee.newsapp.activities.MainActivity
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:18:13-52
+activity#com.albee.newsapp.activities.DetailNewsActivity
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:20:9-67
+	android:name
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:20:19-64
+activity#com.albee.newsapp.SplashScreen
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.3.4] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5bc3670bd5d95643dbec147cfd380cce\transformed\jetified-chip-navigation-bar-1.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.3.4] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5bc3670bd5d95643dbec147cfd380cce\transformed\jetified-chip-navigation-bar-1.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d2a9a60778d02098f52db60cf965789a\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d2a9a60778d02098f52db60cf965789a\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bd8e3b4084567ac93cd3a12cf5a62449\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bd8e3b4084567ac93cd3a12cf5a62449\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bf1a769bec55185f2a673006ca10de01\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\bf1a769bec55185f2a673006ca10de01\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\345c3c555b8c58dba25ff27580b9ab8c\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\345c3c555b8c58dba25ff27580b9ab8c\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\98117baaac17ac733d847189043be261\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\98117baaac17ac733d847189043be261\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f02fd0205bf7f2334330119965620342\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f02fd0205bf7f2334330119965620342\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.sharish:ShimmerRecyclerView:v1.3] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07a32e991458be5b792c97916325a722\transformed\jetified-ShimmerRecyclerView-v1.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.sharish:ShimmerRecyclerView:v1.3] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07a32e991458be5b792c97916325a722\transformed\jetified-ShimmerRecyclerView-v1.3\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d9aa6318413ebb250309d6a82f3d7089\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d9aa6318413ebb250309d6a82f3d7089\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\45a938ef5de44c72b003086ba6bfe954\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\45a938ef5de44c72b003086ba6bfe954\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\872df15e8a87ad84c3d025b4dee06f83\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\872df15e8a87ad84c3d025b4dee06f83\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7be6de85861506f425eb2c3cca68a81f\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7be6de85861506f425eb2c3cca68a81f\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\a3f2b43c4f5aff22ae6c749cee4c05ae\transformed\jetified-materialfavoritebutton-0.1.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\a3f2b43c4f5aff22ae6c749cee4c05ae\transformed\jetified-materialfavoritebutton-0.1.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\0813e4364743e9c3e494dbab4bfc113d\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\0813e4364743e9c3e494dbab4bfc113d\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\3fd286930a5551aa05ca00c5e3ab6c37\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\3fd286930a5551aa05ca00c5e3ab6c37\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\70b011d9058d8ea5d2adfefd26ce3079\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\70b011d9058d8ea5d2adfefd26ce3079\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4c1a2593f97ac4a99764afd03cc83591\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4c1a2593f97ac4a99764afd03cc83591\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\17d24f4559f1d763569b9541b209b5eb\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\17d24f4559f1d763569b9541b209b5eb\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\67390c408357a0a6a7c37a6ee9e630d5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\67390c408357a0a6a7c37a6ee9e630d5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d0cb3d2fb67ea6c48e93337c45c3e891\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\d0cb3d2fb67ea6c48e93337c45c3e891\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4a34df023b5fe04ac2c374dae763daa5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4a34df023b5fe04ac2c374dae763daa5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\83e85f5e5a4aa2a4cbdee773369b473b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\83e85f5e5a4aa2a4cbdee773369b473b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\e633fc7b50cdcb6b04ba579a35d1e9ea\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\e633fc7b50cdcb6b04ba579a35d1e9ea\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b068cbe447fddea4f8725d89ec596094\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b068cbe447fddea4f8725d89ec596094\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7956ffd336fcf8ab864b6e88d9fa9db6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7956ffd336fcf8ab864b6e88d9fa9db6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\1779c95a32682703003c270da2120483\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\1779c95a32682703003c270da2120483\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\799900163aeda3da99eb571c03aa1988\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\799900163aeda3da99eb571c03aa1988\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\6753eba5d1aa8a55e733f4d00c633da4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\6753eba5d1aa8a55e733f4d00c633da4\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\86bcba6d9bb3f79a95f48964bcdac576\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\86bcba6d9bb3f79a95f48964bcdac576\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7bc3ef2ceca3b0bb5a7cf2082defdb72\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7bc3ef2ceca3b0bb5a7cf2082defdb72\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f4a6f71faeda3ac7d43f297aaf743444\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f4a6f71faeda3ac7d43f297aaf743444\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\17c3abce627b13ee8851036d38f48dd3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\17c3abce627b13ee8851036d38f48dd3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4d280fd78189b510fd39e47587318773\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\4d280fd78189b510fd39e47587318773\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07333af5abedbb6552af9145a87d7f01\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\07333af5abedbb6552af9145a87d7f01\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\881e9ddaf7c9ad043bbb77fbf1ca0951\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\881e9ddaf7c9ad043bbb77fbf1ca0951\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\de6ddfac67149aa1cd8ffd8beb7c7ab7\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\de6ddfac67149aa1cd8ffd8beb7c7ab7\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\fea2b4a4453d628f062c394ac26442bf\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\fea2b4a4453d628f062c394ac26442bf\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\2bc8d852abe99e1b7982e2fc1f01f344\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\2bc8d852abe99e1b7982e2fc1f01f344\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7597cc872382abe8aedcbe1e9772d7b2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\7597cc872382abe8aedcbe1e9772d7b2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\2fa9957efb8a3b1c225621f72f3cad18\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\2fa9957efb8a3b1c225621f72f3cad18\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\3222ca6d744dc45608a117a5811efb6e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\3222ca6d744dc45608a117a5811efb6e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\1822c72e5d5ab65ca2622ed16da39b8b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\1822c72e5d5ab65ca2622ed16da39b8b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5c556b54922061ee32c1fec662f3ad3e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5c556b54922061ee32c1fec662f3ad3e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\10249ba024e2f76c95028f85c215f1d0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\10249ba024e2f76c95028f85c215f1d0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\76dc00f861b6cbd24bb0e11e534cae87\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\76dc00f861b6cbd24bb0e11e534cae87\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\caddcd088ef2df5c1ec865e1b3b868fd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\caddcd088ef2df5c1ec865e1b3b868fd\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5b1669e7ee241eb91f5d74faa8ab9ef8\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\5b1669e7ee241eb91f5d74faa8ab9ef8\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b6bc68b8e2989b727b83fd1c6f9cbf0e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b6bc68b8e2989b727b83fd1c6f9cbf0e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f3c9ae9cd8250fe3ae848fca03f42db3\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\f3c9ae9cd8250fe3ae848fca03f42db3\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Albee Akbar Fillah\AndroidStudioProjects\SpotlightNewsV2\app\src\main\AndroidManifest.xml

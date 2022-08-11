@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.albee.newsapp-mergeDebugResources-21:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\caches\\transforms-3\\07333af5abedbb6552af9145a87d7f01\\transformed\\core-1.3.2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Albee Akbar Fillah\\.gradle\\caches\\transforms-3\\345c3c555b8c58dba25ff27580b9ab8c\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
